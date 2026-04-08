@@ -1,6 +1,83 @@
 {
-  "latest": "3.5.37",
+  "latest": "3.5.38",
   "versions": [
+    {
+      "version": "3.5.38",
+      "minAppVersion": "3.5.0",
+      "buildTime": "2026-04-08T01:49:17.085Z",
+      "chunks": {
+        "index": {
+          "url": "https://github.com/tsenta/tsenta-release-assets-mac/releases/download/v3.5.38/index.jsc",
+          "sha256": "cc31066d6a02accecf8ab0a7a4be20f7a72a7f3c60fd4d698845501df0bdc2aa",
+          "size": 7639608
+        },
+        "worker-1": {
+          "url": "https://github.com/tsenta/tsenta-release-assets-mac/releases/download/v3.5.38/worker-1.jsc",
+          "sha256": "f5d8f34ac6409e383e35cb40573cbf475efdb1fdaa4e3fbd4df1c88c26b8bf29",
+          "size": 2727824
+        },
+        "worker-10": {
+          "url": "https://github.com/tsenta/tsenta-release-assets-mac/releases/download/v3.5.38/worker-10.jsc",
+          "sha256": "31d576d326294f5d6ecff0a12bafc070d4630e2e2d416479dce9bc823020bc71",
+          "size": 5579712
+        },
+        "worker-11": {
+          "url": "https://github.com/tsenta/tsenta-release-assets-mac/releases/download/v3.5.38/worker-11.jsc",
+          "sha256": "6c2882db4d1e7f7d5176ee45432fee6465a0932ec448df12aa9276a9e68dd4d1",
+          "size": 2017968
+        },
+        "worker-12": {
+          "url": "https://github.com/tsenta/tsenta-release-assets-mac/releases/download/v3.5.38/worker-12.jsc",
+          "sha256": "79f47af82051119e3adedf3d8c5eb905b501efe05e7fa4eb7e85efeaf075d789",
+          "size": 1011400
+        },
+        "worker-13": {
+          "url": "https://github.com/tsenta/tsenta-release-assets-mac/releases/download/v3.5.38/worker-13.jsc",
+          "sha256": "8695c64b94fa779f07b470929749b3a9ce72ff1d43118a2e63f39511a924bdc8",
+          "size": 4724496
+        },
+        "worker-2": {
+          "url": "https://github.com/tsenta/tsenta-release-assets-mac/releases/download/v3.5.38/worker-2.jsc",
+          "sha256": "de3c94c06c96ee1b57bfba2de5dd80ab1610e2ec453034a199df0153c793130c",
+          "size": 3430376
+        },
+        "worker-3": {
+          "url": "https://github.com/tsenta/tsenta-release-assets-mac/releases/download/v3.5.38/worker-3.jsc",
+          "sha256": "027979949001eb9c7cbaad5c86942fc798dc6bb577eafcc6aa71c3f81b9feb0b",
+          "size": 4938104
+        },
+        "worker-4": {
+          "url": "https://github.com/tsenta/tsenta-release-assets-mac/releases/download/v3.5.38/worker-4.jsc",
+          "sha256": "cdde1a284edaab94c71ad9b9aa49a058cf554bcea7f479d13582bf30802a63dd",
+          "size": 749016
+        },
+        "worker-5": {
+          "url": "https://github.com/tsenta/tsenta-release-assets-mac/releases/download/v3.5.38/worker-5.jsc",
+          "sha256": "6a69fbe2d606164558e7dfb3d00c4585be11325acc7f853886c6073bf27818aa",
+          "size": 977296
+        },
+        "worker-6": {
+          "url": "https://github.com/tsenta/tsenta-release-assets-mac/releases/download/v3.5.38/worker-6.jsc",
+          "sha256": "27ea8283e5977a3363431c542d1720f8eea282259c4f6170721fc9cee973f191",
+          "size": 16524032
+        },
+        "worker-7": {
+          "url": "https://github.com/tsenta/tsenta-release-assets-mac/releases/download/v3.5.38/worker-7.jsc",
+          "sha256": "e5788d06ccf35b66ef821b295ee21a27fcc4f53b541233829e2f46c315912554",
+          "size": 980984
+        },
+        "worker-8": {
+          "url": "https://github.com/tsenta/tsenta-release-assets-mac/releases/download/v3.5.38/worker-8.jsc",
+          "sha256": "9fb707dd1dc5433d9c3dbc394aeac7b90f884ea8d9c889c995f00d616a66cef1",
+          "size": 1268392
+        },
+        "worker-9": {
+          "url": "https://github.com/tsenta/tsenta-release-assets-mac/releases/download/v3.5.38/worker-9.jsc",
+          "sha256": "55aa7adfc57a6b1eb799874c999cfb141bdae0522e91e84ea4fe65435548ba03",
+          "size": 1439304
+        }
+      }
+    },
     {
       "version": "3.5.37",
       "minAppVersion": "3.5.0",
